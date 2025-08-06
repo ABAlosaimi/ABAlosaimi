@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ APIs builder <br>📚 I'm currently learning backend engineering and data since<br>🎯 Goal:  building APIs that provides a really needed services.<br>🎲 Fun fact: I turned my HP laptop into Ubuntu server and have nothing to do with lol</p>
+<p align="left">✨ RESTful APIs builder <br>📚 I'm currently learning backend engineering and data since<br>🎯 Goal:  building APIs that provides a really needed services.<br>🎲 Fun fact: I turned my HP laptop into Ubuntu server and have nothing to do with lol</p>
 
 ###
 
